@@ -1,0 +1,11 @@
+# Files to be ignored by git version control
+
+**/.idea
+**/build
+**/lib
+**/nbproject
+**/production
+/build.xml
+/build_errors.txt
+/build_log.txt
+/manifest.mf
